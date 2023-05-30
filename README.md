@@ -4,7 +4,7 @@ Here is some information about different motorcycle models:
 
 ## Model 1
 
-![Model 1](images/model1.jpg)
+![Model 1](images.jpg)
 
 Description of Model 1.
 
